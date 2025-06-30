@@ -7,7 +7,7 @@ author: <Steve Vaughan>
 summary: <It is a site to promote my new book.>
 lang: en
 locale: en_GB
-url: "https://<your domain name>"
+url: "https://steve.com"
 baseurl: ""
 
 # RSS feeds
